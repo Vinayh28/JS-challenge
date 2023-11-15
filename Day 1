@@ -1,0 +1,8 @@
+Q. Write a program to find the length of an given array without using any inbuilt function.
+code:
+const arr = ["Chandler","Ross","Monica","Rachel","Pheebe","Joey"];
+let sum = 0;
+for(let i =0;i<arr.length;i++){
+sum+=1;
+}
+console.log(sum);
